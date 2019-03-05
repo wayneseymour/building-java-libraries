@@ -3,6 +3,9 @@
  */
 package jvm.library;
 
+/**
+ * @author Tre'
+ */
 public class Library {
     public boolean someLibraryMethod() {
         return true;
